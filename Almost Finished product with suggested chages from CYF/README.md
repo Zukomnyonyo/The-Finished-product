@@ -1,19 +1,4 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
-
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+This a page that I am creating to showcase the beauty of one of the places I regard a home
+Cacadu is a:   Lady Frere (officially Cacadu) is a small town in the Chris Hani District Municipality in the Eastern Cape province of South Africa. The town was renamed to Cacadu in 2017 after changes to the country's colonial names.
+Cacadu, meaning "bulrush water", is the Xhosa name for the White Kei River
+I will continue to work on this un til it has reached a stanadrd that i fee is befitting to its history and heritage
