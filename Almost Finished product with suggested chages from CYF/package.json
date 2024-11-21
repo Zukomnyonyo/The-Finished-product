@@ -1,0 +1,15 @@
+{
+  "name": "Scrim-s0lj75cip6",
+  "description": "https://scrimba.com/s0lj75cip6/head",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "jquery": "3.2.1",
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
